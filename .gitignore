@@ -39,3 +39,4 @@ app/public/data/**/*
 .temp-*/
 .backup-*/
 
+.vercel
